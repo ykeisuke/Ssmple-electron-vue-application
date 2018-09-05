@@ -6,6 +6,7 @@
         <span class="title">
           Welcome to your new project!
         </span>
+        <router-link to="/next">画面遷移します</router-link>
         <system-information></system-information>
       </div>
 
