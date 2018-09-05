@@ -1,0 +1,253 @@
+➜  ~ pwd
+/Users/YKEI
+➜  ~ cd git
+➜  git ll
+Permissions Size User Date Modified Name                              Permissions Size User Date Modified Name                                 Permissions Size User Date Modified Name
+drwxr-xr-x     - YKEI  7 10  2016   Alamofire                         drwxr-xr-x@    - YKEI  5 12  2015   ProjectFiServer                      drwxr-xr-x@    - YKEI 30 5  2017    icon.ios
+drwxr-xr-x     - YKEI 11 12  2015   AnalyticsApacheLog                drwxrwxrwx@    - YKEI  5 12  2015   ProjectFiView                        drwxrwxrwx     - YKEI 18 10  2015   ieCon
+drwxr-xr-x     - YKEI  7 12  2016   Articles-iOS-VIPER                drwxr-xr-x     - YKEI  6 10  2017   PullToRefresh                        drwxrwxrwx     - YKEI 18 10  2015   iefuck
+drwxr-xr-x     - YKEI 31 3  2017    AscreedCorporateSite              drwxr-xr-x     - YKEI 28 8  2017    Receive Push Notifications Sample    drwxr-xr-x     - YKEI  5 10  2016   imageUploadtest
+drwxr-xr-x     - YKEI  7 1  2016    AscreedRecruiting                 drwxr-xr-x     - YKEI 26 9  2017    Sample22                             drwxrwxrwx     - YKEI 18 10  2015   iot_hack4
+drwxr-xr-x     - YKEI  3 10  2017   CDAlertView                       drwxr-xr-x     - YKEI 18 10  2016   SampleApp                            drwxr-xr-x     - YKEI 17 9  2016    isucon06
+drwxr-xr-x     - YKEI 30 7  2016    CakePhp3-AclManager               drwxr-xr-x     - YKEI 13 3  2016    SampleMutableNetwork                 drwxr-xr-x     - YKEI 17 9  2016    isucon06-php
+drwxr-xr-x     - YKEI  5 11  2015   ContributeEureka                  drwxr-xr-x     - YKEI 26 10  2016   SampleNotification                   drwxrwxrwx     - YKEI 18 10  2015   isucon2015
+drwxr-xr-x     - YKEI 31 5 21:13    CoreData-Sample4                  drwxr-xr-x     - YKEI  7 12  2016   SampleNotification2                  drwxr-xr-x     - YKEI  5 9  2017    jikkennman
+drwxr-xr-x     - YKEI  5 6 14:29    CoreData-Sample5                  drwxrwxrwx     - YKEI 24 2  2015    SickWorld01                          drwxr-xr-x     - YKEI 27 8 12:38    noren.ios
+drwxr-xr-x     - YKEI 11 6 13:06    CoreData-Sample6                  drwxrwxrwx     - YKEI 27 3  2015    SickWorld02                          drwxr-xr-x     - YKEI 11 5  2017    noren.ios.safari
+drwxr-xr-x     - YKEI  5 6 18:19    CoreData-Sample7                  drwxr-xr-x     - YKEI  9 3  2017    SideMenu                             drwxr-xr-x     - YKEI 19 4 16:06    noren.server
+drwxr-xr-x     - YKEI  2 7 21:12    CoreData-Sample8                  drwxr-xr-x@    - YKEI 24 5  2017    SimulatorStatusMagic                 drwxr-xr-x     - YKEI  9 11  2016   old
+drwxr-xr-x     - YKEI  8 6  8:52    CoreData-Sample9                  drwxrwxrwx     - YKEI 18 10  2015   SuzukiSan                            drwxr-xr-x@    - YKEI 28 7  2016    php
+drwxr-xr-x     - YKEI 11 6 12:15    CoreData-Sample10                 drwxrwxrwx     - YKEI 18 10  2015   TSA-Travel-Sentry-master-keys        drwxr-xr-x     - YKEI 10 11  2016   sample-viper2
+drwxr-xr-x     - YKEI 15 6 19:24    CoreData-Sample11                 drwxrwxrwx     - YKEI 22 1  2016    _HR-System                           drwxr-xr-x     - YKEI 25 3  2017    sample-viper3
+drwxr-xr-x     - YKEI 19 6 20:11    CoreData-Sample12                 drwxrwxrwx     - YKEI 22 1  2016    _HR-System(Frontend)                 drwxr-xr-x     - YKEI 17 11  2016   sample-viper4
+drwxr-xr-x     - YKEI 21 5 20:09    CoreData-sample1                  drwxr-xr-x     - YKEI 17 11  2016   _ProjectFiServer                     drwxr-xr-x     - YKEI 17 7  2016    sample01
+drwxr-xr-x     - YKEI 23 5 18:33    CoreData-sample2                  drwxr-xr-x     - YKEI 25 12  2015   _fs_backend                          drwxr-xr-x     - YKEI 17 7  2016    sample02
+drwxr-xr-x     - YKEI 28 5 12:43    CoreData-sample3                  drwxr-xr-x     - YKEI 17 11  2016   _kanamoriweb                         drwxr-xr-x     - YKEI  2 10  2017   sample23
+drwxr-xr-x     - YKEI 28 8 20:46    CoreDataSample13                  drwxr-xr-x     - YKEI 17 11  2016   amebapost                            drwxrwxrwx@    - YKEI 25 10  2015   shoku
+drwxr-xr-x     - YKEI 11 6 13:15    CoreStore                         drwxr-xr-x@    - YKEI 29 4  2016    anime                                drwxrwxrwx@    - YKEI 15 11  2015   shoku_server
+drwxr-xr-x     - YKEI  4 8  2016    DesignPatternVitaly.playground    drwxr-xr-x@    - YKEI 30 7  2016    apre                                 drwxr-xr-x     - YKEI  1 8  2017    slack-esa-linker
+drwxr-xr-x     - YKEI 12 5  2017    DustData                          drwxrwxrwx     - YKEI 18 10  2015   awesome-swift-jp                     drwxr-xr-x     - YKEI 26 3  2016    svfes
+drwxr-xr-x     - YKEI  3 10  2017   ESTabBarController                drwxr-xr-x@    - YKEI 15 4  2016    beauty-hair.jp                       drwxr-xr-x     - YKEI 26 3  2016    svfes2
+drwxr-xr-x     - YKEI  3 11  2016   EmotionNote                       drwxr-xr-x     - YKEI 11 10  2017   bushiroad-competition                drwxr-xr-x@    - YKEI 20 10  2016   tappli.android
+drwxr-xr-x     - YKEI  5 11  2015   FXForms                           drwxrwxrwx     - YKEI 16 11  2014   bystep                               drwxr-xr-x     - YKEI 20 12  2016   tappli.ios.certificate
+drwxr-xr-x     - YKEI 25 10  2016   FuckinTV                          drwxrwxrwx     - YKEI 18 10  2015   cakephpDocs                          drwxr-xr-x     - YKEI 29 11  2016   tappli.ios.factory
+drwxr-xr-x     - YKEI 25 10  2016   FuckinTV2                         drwxrwxrwx     - YKEI 19 11  2014   chiritsumo_2014_spring_yteam_repo    drwxr-xr-x@    - YKEI 27 4  2017    tappli.server
+drwxr-xr-x     - YKEI 25 10  2016   FuckinTV3                         drwxr-xr-x     - YKEI 28 2  2016    concierge                            drwxr-xr-x     - YKEI  8 6  2017    test901
+drwxrwxrwx@    - YKEI 30 5  2016    HR-System                         drwxrwxrwx     - YKEI 18 10  2015   coreutils                            drwxr-xr-x     - YKEI 11 6  2017    test902
+drwxrwxrwx@    - YKEI  2 10  2015   HR-System(Frontend)               drwxr-xr-x     - YKEI  9 11  2016   currency-converter-swift3.0-viper    drwxr-xr-x@    - YKEI  7 10  2016   tkgs
+drwxrwxrwx     - YKEI 17 5  2015    HeadBangingWotagei                drwxr-xr-x     - YKEI 29 7  2016    demo-cell                            drwxr-xr-x     - YKEI 16 8  2016    tkgs-local
+drwxrwxrwx     - YKEI 18 10  2015   HomeHackDocs                      drwxr-xr-x     - YKEI  6 4 13:10    docker-symfony2                      drwxrwxrwx     - YKEI 23 9  2014    toufu
+drwxr-xr-x     - YKEI 22 3  2016    IOSHelper                         drwxr-xr-x     - YKEI 26 11  2015   eigen                                drwxr-xr-x     - YKEI  3 12  2016   toufu.anime
+drwxrwxrwx     - YKEI 18 10  2015   IeconServer                       drwxr-xr-x     - YKEI  5 9 13:49    electron-vue-sample                  drwxr-xr-x     - YKEI  1 3  2016    uitestMock
+drwxrwxrwx     - YKEI 18 10  2015   Imagine                           drwxrwxrwx     - YKEI 12 4  2015    examineButtonPosition                drwxr-xr-x     - YKEI 31 3  2017    untitled
+drwxr-xr-x     - YKEI 27 11  2015   Libre                             drwxr-xr-x     - YKEI  2 6  2016    exif-js                              drwxr-xr-x     - YKEI 24 1  2017    v
+drwxrwxrwx     - YKEI 18 10  2015   NewsWatch                         drwxrwxrwx@    - YKEI 26 11  2015   fs_app_iphone                        drwxrwxrwx     - YKEI 18 10  2015   var_dumper_js
+drwxr-xr-x     - YKEI 29 4  2016    PagingMenuController              drwxrwxrwx@    - YKEI 31 5  2016    fs_backend                           drwxr-xr-x     - YKEI  4 11  2016   viper-sample
+drwxr-xr-x     - YKEI  5 2  2017    PinterestSwift                    drwxr-xr-x     - YKEI 26 9  2017    git-practice                         drwxr-xr-x     - YKEI  1 6  2017    wp-1055
+drwxr-xr-x     - YKEI 29 9  2017    Playground                        drwxr-xr-x     - YKEI 21 11  2016   git-practice2                        drwxr-xr-x@    - YKEI 31 3  2016    wp-beautyhair
+drwxr-xr-x     - YKEI  2 11  2015   Playground01                      drwxrwxrwx     - YKEI 18 10  2015   homehack                             drwxr-xr-x     - YKEI  9 11  2016   wp-noren
+drwxrwxrwx@    - YKEI  7 8  2015    ProjectFiAndroid                  drwxr-xr-x     - YKEI  3 9  2016    ic05                                 drwxrwxrwx     - YKEI 18 10  2015   yokohama
+➜  git electron-vue-sample
+➜  electron-vue-sample ll
+Permissions Size User Date Modified Name            Permissions Size User Date Modified Name
+.rw-r--r--   233 YKEI  5 9 13:49    package.json
+➜  electron-vue-sample npm -g install electron
+/Users/YKEI/.nodebrew/node/v10.9.0/bin/electron -> /Users/YKEI/.nodebrew/node/v10.9.0/lib/node_modules/electron/cli.js
+
+> electron@2.0.8 postinstall /Users/YKEI/.nodebrew/node/v10.9.0/lib/node_modules/electron
+> node install.js
+
++ electron@2.0.8
+added 149 packages from 126 contributors in 14.563s
+➜  electron-vue-sample npm install -g vue-cli
+npm WARN deprecated coffee-script@1.12.7: CoffeeScript on NPM has moved to "coffeescript" (no hyphen)
+/Users/YKEI/.nodebrew/node/v10.9.0/bin/vue -> /Users/YKEI/.nodebrew/node/v10.9.0/lib/node_modules/vue-cli/bin/vue
+/Users/YKEI/.nodebrew/node/v10.9.0/bin/vue-init -> /Users/YKEI/.nodebrew/node/v10.9.0/lib/node_modules/vue-cli/bin/vue-init
+/Users/YKEI/.nodebrew/node/v10.9.0/bin/vue-list -> /Users/YKEI/.nodebrew/node/v10.9.0/lib/node_modules/vue-cli/bin/vue-list
++ vue-cli@2.9.6
+added 235 packages from 205 contributors in 18.559s
+➜  electron-vue-sample vue init simulatedgreg/electron-vue my-project
+
+? Application Name my-project
+? Application Id com.example.yourapp
+? Application Version 0.0.1
+? Project description An electron-vue project
+? Use Sass / Scss? Yes
+? Select which Vue plugins to install axios, vue-electron, vue-router, vuex
+? Use linting with ESLint? Yes
+? Which ESLint config would you like to use? Standard
+? Set up unit testing with Karma + Mocha? No
+? Set up end-to-end testing with Spectron + Mocha? No
+? What build tool would you like to use? builder
+? author Y.KEISUKE <yamagutikeisuke@gmail.com>
+
+   vue-cli · Generated "my-project".
+
+---
+
+All set. Welcome to your new electron-vue project!
+
+Make sure to check out the documentation for this boilerplate at
+https://simulatedgreg.gitbooks.io/electron-vue/content/.
+
+Next Steps:
+
+  $ cd my-project
+  $ yarn (or `npm install`)
+  $ yarn run dev (or `npm run dev`)
+
+➜  electron-vue-sample cd my-project
+➜  my-project ll
+Permissions Size User Date Modified Name            Permissions Size User Date Modified Name     Permissions Size User Date Modified Name            Permissions Size User Date Modified Name
+.rw-r--r--   666 YKEI  5 9 15:10    README.md       drwxr-xr-x     - YKEI  5 9 15:10    build    .rw-r--r--  3.4k YKEI  5 9 15:10    package.json    drwxr-xr-x     - YKEI  5 9 15:10    static
+.rw-r--r--   415 YKEI  5 9 15:10    appveyor.yml    drwxr-xr-x     - YKEI  5 9 15:10    dist     drwxr-xr-x     - YKEI  5 9 15:10    src
+➜  my-project npm install
+npm WARN deprecated babel-preset-babili@0.1.4: babili has been renamed to babel-minify. Please update to babel-preset-minify
+npm WARN deprecated browserslist@1.7.7: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+
+> fsevents@1.2.4 install /Users/YKEI/git/electron-vue-sample/my-project/node_modules/fsevents
+> node install
+
+[fsevents] Success: "/Users/YKEI/git/electron-vue-sample/my-project/node_modules/fsevents/lib/binding/Release/node-v64-darwin-x64/fse.node" already installed
+Pass --update-binary to reinstall or --build-from-source to recompile
+
+> node-sass@4.9.3 install /Users/YKEI/git/electron-vue-sample/my-project/node_modules/node-sass
+> node scripts/install.js
+
+Downloading binary from https://github.com/sass/node-sass/releases/download/v4.9.3/darwin-x64-64_binding.node
+Download complete ░⸩ ⠋ :
+Binary saved to /Users/YKEI/git/electron-vue-sample/my-project/node_modules/node-sass/vendor/darwin-x64-64/binding.node
+Caching binary to /Users/YKEI/.npm/node-sass/4.9.3/darwin-x64-64_binding.node
+
+> electron@2.0.8 postinstall /Users/YKEI/git/electron-vue-sample/my-project/node_modules/electron
+> node install.js
+
+
+> node-sass@4.9.3 postinstall /Users/YKEI/git/electron-vue-sample/my-project/node_modules/node-sass
+> node scripts/build.js
+
+Binary found at /Users/YKEI/git/electron-vue-sample/my-project/node_modules/node-sass/vendor/darwin-x64-64/binding.node
+Testing binary
+Binary is fine
+
+> my-project@0.0.1 postinstall /Users/YKEI/git/electron-vue-sample/my-project
+> npm run lint:fix
+
+
+> my-project@0.0.1 lint:fix /Users/YKEI/git/electron-vue-sample/my-project
+> eslint --ext .js,.vue -f ./node_modules/eslint-friendly-formatter --fix src
+
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN my-project@0.0.1 No repository field.
+npm WARN my-project@0.0.1 No license field.
+
+added 1443 packages from 1031 contributors and audited 12975 packages in 83.885s
+found 0 vulnerabilities
+
+➜  my-project npm run dev
+
+> my-project@0.0.1 dev /Users/YKEI/git/electron-vue-sample/my-project
+> node .electron-vue/dev-runner.js
+
+         ___                      __
+   __   /\_ \       __     ___   /\ \__    _ __    ___     ___              __  __  __  __     __
+ / ,.`\ \//\ \    / ,.`\  /'___\ \ \ ,_\  /\` __\ / __`\ /' _ `\   _______ /\ \/\ \/\ \/\ \  / ,.`\
+/\  __/   \_\ \_ /\  __/ /\ \__/  \ \ \/  \ \ \/ /\ \_\ \/\ \/\ \ /\______\\ \ \/ |\ \ \_\ \/\  __/
+\ \____\  /\____\\ \____\\ \____\  \ \ \_  \ \_\ \ \____/\ \_\ \_\\/______/ \ \___/ \ \____/\ \____\
+ \/____/  \/____/ \/____/ \/____/   \ \__\  \/_/  \/___/  \/_/\/_/           \/__/   \/___/  \/____/
+                                     \/__/
+  getting ready...
+
+┏ Main Process ---------------
+
+  compiling...
+
+┗ ----------------------------
+
+┏ Renderer Process -----------
+
+  Hash: a5d5db3105ce9445e161
+  Version: webpack 4.17.2
+  Time: 3672ms
+  Built at: 2018-09-05 15:12:38
+                  Asset       Size    Chunks             Chunk Names
+  imgs/logo--assets.png   60.4 KiB            [emitted]
+            renderer.js   1.15 MiB  renderer  [emitted]  renderer
+             index.html  429 bytes            [emitted]
+  Entrypoint renderer = renderer.js
+  [./.electron-vue/dev-client.js] 731 bytes {renderer} [built]
+  [./node_modules/strip-ansi/index.js] 161 bytes {renderer} [built]
+  [./node_modules/vue/dist/vue.esm.js] 286 KiB {renderer} [built]
+  [./node_modules/webpack-hot-middleware/client.js?noInfo=true&reload=true] (webpack)-hot-middleware/client.js?noInfo=true&reload=true 7.59 KiB {renderer} [built]
+  [./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 519 bytes {renderer} [built]
+  [./src/renderer/App.vue] 1.11 KiB {renderer} [built]
+  [./src/renderer/components/LandingPage.vue] 1.17 KiB {renderer} [built]
+  [./src/renderer/main.js] 382 bytes {renderer} [built]
+  [./src/renderer/router/index.js] 264 bytes {renderer} [built]
+  [0] multi ./.electron-vue/dev-client ./src/renderer/main.js 40 bytes {renderer} [built]
+  [./src/renderer/store/index.js] 202 bytes {renderer} [built]
+  [./src/renderer/store/modules/index.js] 238 bytes {renderer} [built]
+  [axios] external "axios" 42 bytes {renderer} [built]
+  [vue-electron] external "vue-electron" 42 bytes {renderer} [built]
+  [vue-router] external "vue-router" 42 bytes {renderer} [built]
+      + 42 hidden modules
+  Child html-webpack-plugin for "index.html":
+           Asset      Size  Chunks  Chunk Names
+      index.html  1.38 MiB       0
+      Entrypoint undefined = index.html
+      [./node_modules/html-webpack-plugin/lib/loader.js!./src/index.ejs] 1.08 KiB {0} [built]
+      [./node_modules/lodash/lodash.js] 527 KiB {0} [built]
+      [./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 519 bytes {0} [built]
+
+┗ ----------------------------
+
+┏ Main Process ---------------
+
+  Hash: a86b4a7b8e90de4c47ed
+  Version: webpack 4.17.2
+  Time: 3930ms
+  Built at: 2018-09-05 15:12:38
+    Asset     Size  Chunks             Chunk Names
+  main.js  210 KiB    main  [emitted]  main
+  Entrypoint main = main.js
+  [./node_modules/electron-debug sync recursive] ./node_modules/electron-debug sync 160 bytes {main} [built]
+  [./node_modules/electron-debug/index.js] 2.46 KiB {main} [built]
+  [./node_modules/electron-devtools-installer/dist/downloadChromeExtension.js] 2.26 KiB {main} [built]
+  [./node_modules/electron-devtools-installer/dist/index.js] 5.02 KiB {main} [built]
+  [./node_modules/electron-devtools-installer/dist/utils.js] 1.88 KiB {main} [built]
+  [./node_modules/electron-is-dev/index.js] 256 bytes {main} [built]
+  [./node_modules/electron-localshortcut/index.js] 8.16 KiB {main} [built]
+  [./node_modules/electron-localshortcut/node_modules/debug/src/index.js] 263 bytes {main} [built]
+  [./node_modules/semver/semver.js] 35.6 KiB {main} [built]
+  [./src/main/index.dev.js] 364 bytes {main} [built]
+  [./src/main/index.js] 801 bytes {main} [built]
+  [electron] external "electron" 42 bytes {main} [built]
+  [fs] external "fs" 42 bytes {main} [built]
+  [0] multi ./src/main/index.dev.js ./src/main/index.js 40 bytes {main} [built]
+  [path] external "path" 42 bytes {main} [built]
+      + 33 hidden modules
+
+  WARNING in ./node_modules/electron-debug/index.js 81:45-58
+  Critical dependency: the request of a dependency is an expression
+   @ ./src/main/index.dev.js
+   @ multi ./src/main/index.dev.js ./src/main/index.js
+
+  WARNING in ./node_modules/electron-debug/index.js 84:85-106
+  Critical dependency: the request of a dependency is an expression
+   @ ./src/main/index.dev.js
+   @ multi ./src/main/index.dev.js ./src/main/index.js
+
+┗ ----------------------------
+
+┏ Electron -------------------
+
+  Debugger listening on ws://127.0.0.1:5858/07e362d9-4a1f-49a8-9e74-11a6646c7c8d
+  For help see https://nodejs.org/en/docs/inspector
+
+┗ ----------------------------
+
+┏ Electron -------------------
+
+  Debugger attached.
+
+┗ ----------------------------
